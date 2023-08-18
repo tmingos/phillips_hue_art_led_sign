@@ -1,13 +1,24 @@
-
-#  Pixel Ids
+# Pixel Ids
 #
 #                     0    1     2    3    4    5    6
 #             7    8    9     10   11  (12)  13   14   15
 #     16   17   18   19    20    21  (22) (23)  24   25
 #                                  26   27   28
 #
-# To make it easier to program the animations we number the pixels left to right, descending.
-# The below hash maps each pixel id to the UUID of that bulb in the Hue Bridge's REST API
+# To make it easier to program the animations we number the
+# pixels left to right, descending.
+#
+# The below Hash maps each numbered pixel id to the UUID of that 
+# led bulb in the Hue Bridge's REST API
+#
+# We find the unique Hue id for each bulb by accessing the bridge's
+# REST API and playing around with it. There are tutorials out there
+# on how to create an API key. Once you have one, go to
+# the following URL replacing the token below with your own:
+# 
+# http://10.1.11.2/api/InFhukEjou6kF5igLy9JBQ63OqSeNy9NcridEjRw/lights
+#
+# This will give you a JSON representation of all the Hue lights
 
 module Config
 
