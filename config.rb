@@ -5,6 +5,9 @@
 #             7    8    9     10   11  (12)  13   14   15
 #     16   17   18   19    20    21  (22) (23)  24   25
 #                                  26   27   28
+#
+# To make it easier to program the animations we number the pixels left to right, descending.
+# The below hash maps each pixel id to the UUID of that bulb in the Hue Bridge's REST API
 
 module Config
 
