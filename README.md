@@ -1,7 +1,8 @@
-# phillips-hue-art-led-sign
+# Animated Sign Out of Phillips Hue LEDs
 
-Animated LED Sign in the shape of North Carolina using Phillips Hue Bulbs and a Raspberry Pi
+Back in 2015 I took 29 Phillips Hue bulbs and a Raspberry Pi and turned them into an animated art display in the shape of my home state of North Carolina.
 
+Read More: https://blog.taylormingos.com/raspberry-pi/animated-hue-art-led-sign/
 
 MIT License
 
