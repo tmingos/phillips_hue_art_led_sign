@@ -4,6 +4,9 @@ Back in 2015 I took 29 Phillips Hue bulbs and a Raspberry Pi and turned them int
 
 Read More: https://blog.taylormingos.com/raspberry-pi/animated-hue-art-led-sign/
 
+
+---
+
 MIT License
 
 Copyright (c) 2023 Taylor Mingos
