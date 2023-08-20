@@ -14,7 +14,8 @@
 # We find the unique Hue id for each bulb by accessing the bridge's
 # REST API and playing around with it. There are tutorials out there
 # on how to create an API key. Once you have one, go to
-# the following URL replacing the token below with your own:
+# the following URL replacing the bridge IP address & the token 
+# below with your own:
 # 
 # http://10.1.11.2/api/InFhukEjou6kF5igLy9JBQ63OqSeNy9NcridEjRw/lights
 #
