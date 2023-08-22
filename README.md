@@ -2,7 +2,7 @@
 
 Back in 2015 I took 29 Phillips Hue bulbs and a Raspberry Pi and turned them into an animated art display in the shape of my home state of North Carolina.
 
-Read More: https://blog.taylormingos.com/raspberry-pi/animated-hue-art-led-sign/
+Read More: https://www.techandtransit.com/raspberry-pi/animated-hue-art-led-sign/
 
 ![14-Blue-Stripes](https://github.com/tmingos/phillips_hue_art_led_sign/assets/54285/b1e3953e-136f-4e83-a663-a784d48762d2)
 ![13-LED-Rainbow-Pride-Flag](https://github.com/tmingos/phillips_hue_art_led_sign/assets/54285/efedb16a-cc15-42bc-b081-dd5bd380d0bc)
